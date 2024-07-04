@@ -6,20 +6,19 @@
     <a href="https://github.com/shuvo8220/shuvo8220"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/shuvo8220/shuvo8220/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/shuvo8220/shuvo8220/stargazers"><img src="https://img.shields.io/github/stars/nafiulhaqueinan/nafiulhaqueinan.svg?logo=github"></a>
+    <a href="https://github.com/shuvo8220/shuvo8220/stargazers"><img src="https://img.shields.io/github/stars/shuvo8220/shuvo8220.svg?logo=github"></a>
     <a href="https://github.com/shuvo8220/shuvo8220/network/members"><img src="https://img.shields.io/github/forks/shuvo8220/shuvo8220.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shuvo8220" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
-
 <a href="https://isocpp.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" align="right" height="48" width="48">
 </a>
 
 <!--   my-ticker -->  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.shuvo+saha;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Machine+Learning+Deep+Learning+Generative+AI+Web+Development+python+django;+Active+on++LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+shuvo+saha;+Welcome+to+My+Profile!;Currently+CSE+Student;+I+am+doing+Competitive+Programming,+Machine+Learning,+Deep+Learning,+Generative+AI,+Web+Development,+python+django;+Active+on++LeetCode;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
 
 <h3 align="left">Competitive programming Platforms:</h3>
 <p align="left">
