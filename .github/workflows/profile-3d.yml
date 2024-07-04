@@ -1,38 +1,24 @@
-name: CI
+name: GitHub-Profile-3D-Contrib
 
 on:
-  push:
-    branches:
-      - main
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    name: generate-github-profile-3d-contrib
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Git configuration
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-
-    - name: Add changes
-      run: |
-        git add .
-    
-    - name: Commit changes if there are any
-      run: |
-        if git diff-index --quiet HEAD; then
-          echo "No changes to commit"
-          exit 0
-        fi
-        git commit -m "generated"
-
-    - name: Push changes
-      env:
-        GH_PAT: ${{ secrets.GH_PATH2 }}
-      run: |
-        git remote set-url origin https://x-access-token:${GH_PATH2}@github.com/shuvo8220/shuvo8220.git
-        git push origin main
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
