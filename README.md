@@ -37,22 +37,22 @@
 | **Operating Systems**                           | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=Arch-Linux&logoColor=white)|
 
 ### 📈 GitHub Activity Graph:
-[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
-[![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
+[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shuvo8220&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
+[![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shuvo8220&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
 
 
-![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
-![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+![Light](https://raw.githubusercontent.com/shuvo8220/shuvo8220/main/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/shuvo8220/shuvo8220/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 
 
-![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/shuvo8220/shuvo8220/output/github-contribution-grid-snake.svg)
 
 
-|                                                   **Nafiul Status**                                                                     |                                         **Languages Used**                                                                |
+|                                                   **Shuvo Status**                                                                     |                                         **Languages Used**                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|[![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) [![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=buefy&includble_all_commits=true)](#gh-light-mode-only) | [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-light-mode-only) |
+|[![**shuvo status**](https://github-readme-stats.vercel.app/api?username=shuvo8220&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) [![**shuvo status**](https://github-readme-stats.vercel.app/api?username=shuvo8220&show_icons=true&theme=buefy&includble_all_commits=true)](#gh-light-mode-only) | [![**shuvo status**](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo8220&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) [![**shuvo status**](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo8220&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-light-mode-only) |
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=shuvo8220&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=shuvo8220&theme=buefy&hide_border=false)](#gh-light-mode-only)
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
@@ -60,10 +60,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nafiulhaqueinan&theme=algolia&column=7&no-bg=true&no-frame=true" alt="nafiul's GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shuvo8220&theme=algolia&column=7&no-bg=true&no-frame=true" alt="shuvo's GitHub Trophies"/>
   </a>
 </p>
 
-![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg#gh-light-mode-only)
+![Light](https://raw.githubusercontent.com/shuvo8220/shuvo8220/main/assest/light_down.svg#gh-light-mode-only)
 
-![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greendown.svg#gh-dark-mode-only)
+![Dark](https://raw.githubusercontent.com/shuvo8220/shuvo8220/main/assest/greendown.svg#gh-dark-mode-only)
