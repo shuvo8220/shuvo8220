@@ -18,7 +18,7 @@
 
 <!--   my-ticker -->  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+shuvo+saha;+Welcome+to+My+Profile!;Currently+CSE+Student;I+am+doing+Competitive+Programming;Machine+Learning,+Deep+Learning,+Generative+AI,+Web+Development,+python+django;+Active+on++LeetCode;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+shuvo+saha;+Welcome+to+My+Profile!;Currently+CSE+Student;I+am+doing+Competitive+Programming;Generative+AI,+Web+Development;+Active+on++LeetCode;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
 
 <h3 align="left">Competitive programming Platforms:</h3>
 <p align="left">
